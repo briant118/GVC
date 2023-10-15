@@ -1,5 +1,4 @@
-#Requirements in CFR&ASEN
-#(Criminal Face Recognition and Alert System with Email #Notification)
+#Requirements in CFR&ASEN (Criminal Face Recognition and Alert System with Email #Notification)
 
 
 deepface==0.0.79
